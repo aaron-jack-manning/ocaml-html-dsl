@@ -1,2 +1,2 @@
-site-generation/**.ml linguist-language=OCaml
-site-generation/**/**.ml linguist-language=OCaml
+lib/*.ml linguist-language=OCaml
+html-dsl/*.ml linguist-language=OCaml
