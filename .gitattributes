@@ -1,2 +1,2 @@
-lib/*.ml linguist-language=OCaml
-html-dsl/*.ml linguist-language=OCaml
+lib/** linguist-vendored
+html-dsl/** linguist-vendored
